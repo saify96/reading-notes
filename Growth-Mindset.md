@@ -12,8 +12,3 @@ ___
 
 ![](https://cdn.pixabay.com/photo/2017/12/18/13/59/create-3026190_960_720.jpg)
 
----
----
-#### My name is mohammad al saify, I am a civil engineer, I graduated in 2018 from Philadelphia University with an excellent degree.
-#### I am a content moderator at Opensooq since 1 year, I am looking forward to changing my career and I believe this course will help me out.
-### [Mohammad Al Saify](https://github.com/saify96)

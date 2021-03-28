@@ -1,0 +1,7 @@
+- When we compare two values the result will be a boolean.
+- It's better to use the strict equal === than == because it will compare the type and value.
+- Logical operators compare the results of more than one comparsion operator.
+- Logical expressions are evaluated left to right.
+- Loops check a condition and the code block keeps runing until the condition returns false.
+- The Common types of loop : FOR & WHILE & DO WHILE.
+- Every type of the loops has its uses.

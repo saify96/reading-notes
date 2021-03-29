@@ -14,4 +14,6 @@ Read02b | [Class2](read02b.md)
 Read03  | [Class3](read03.md)
 Read04  | [Class4](read04.md)
 Read05  | [Class5](read05.md)
+Read06  | [Class6](read06.md)
+
 

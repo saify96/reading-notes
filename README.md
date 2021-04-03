@@ -4,7 +4,7 @@
 
 Assignment | Link
 -------------- | ---------------
-Read01 | 
+Read01 | [Class1](102.md)
 Read02 |
 Read03| 
 Read04  | 

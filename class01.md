@@ -1,5 +1,4 @@
 ## Structure
---
 ### HTML Describes the Structure of Pages.
 ### Tags act like containers and every container indicate about the information that lies between their opening and closing tags.
 ### Tag contains left-angle bracket and the Character ant RIGHT-angle bracket  (characters that sit inside angled brackets).
@@ -39,13 +38,13 @@
 ### A script is a series of instructions that a computer can follow to achieve a goal.
 ### The computer will follow your script step by step.
 ### Before you write the script, You need to set your goal by :
-    - DEFINE THE GOAL 
-    - DESIGN THE SCRIPT
-    - CODE EACH STEP
+##### DEFINE THE GOAL 
+##### DESIGN THE SCRIPT
+##### CODE EACH STEP
 ### How a browser interprets the HTML code?
-    - Receive the html code. 
-    - Creats a model and stores it.
-    - Shows the page on screen.
+##### Receive the html code. 
+##### Creats a model and stores it.
+##### Shows the page on screen.
 ### When the browser comes across a <script> element, it stops to load the script and then checks to see if it needs to do anything.
 ### It is best to write the js extrnally.
 

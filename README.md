@@ -22,7 +22,7 @@ Read06  | [Class6](read06.md)
 Assignment | Link
 -------------- | ---------------
 Read01 | [Class1](class01.md)
-Read02 |
+Read02 | [Class2](class02.md)
 Read03| 
 Read04  | 
 Read05  | 

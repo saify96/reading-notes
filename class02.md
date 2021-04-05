@@ -23,9 +23,9 @@
 * ### You should write comments to explain what your code does, We can write the comments by // for one line comment and /* */ for multi-lines.
 * ### We must declare the variable before use it.
 * ### We have three main Data Types :
- * #### NUMERIC
- * #### STRING
- * #### BOOLEAN
+      * #### NUMERIC
+      * #### STRING
+      * #### BOOLEAN
 
 
 

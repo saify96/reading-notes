@@ -10,9 +10,11 @@
 - ## First of all we must know that the CSS treats each HTML element as if it lives in its own box.
 - ## We can use the CSS to control the properties of these boxes.
 - ## We can set the dimensions by pixels and percentages.
-- ## we can use overflow when the content contained within a box is larger than the box itself.
 #### overflow hidden | overflow scroll
 ![sfwfwfwefawf](overflow.jpg)
+- ## we can use overflow when the content contained within a box is larger than the box itself.
+
+
 ![](https://s1.o7planning.com/en/12495/images/51081143.gif)
 - ## As we can see from the previous image
  - ### The border goes around the padding and content.

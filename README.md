@@ -8,23 +8,23 @@
 
 Assignment | Link
 ------------ | -------------
-Read01 | [Class1](read01.md)
-Read02a | [Class2](read02a.md)
-Read02b | [Class2](read02b.md)
-Read03  | [Class3](read03.md)
-Read04  | [Class4](read04.md)
-Read05  | [Class5](read05.md)
-Read06  | [Class6](read06.md)
+Read01 | [Class1](102/read01.md)
+Read02a | [Class2](102/read02a.md)
+Read02b | [Class2](102/read02b.md)
+Read03  | [Class3](102/read03.md)
+Read04  | [Class4](102/read04.md)
+Read05  | [Class5](102/read05.md)
+Read06  | [Class6](102/sread06.md)
 
 
 # Code 201 Reading Notes
 
 Assignment | Link
 -------------- | ---------------
-Read01 | [Class1](class01.md)
-Read02 | [Class2](class02.md)
-Read03|  [Class3](class03.md)
-Read04  | 
+Read01 | [Class1](201/class01.md)
+Read02 | [Class2](201/class02.md)
+Read03|  [Class3](201/class03.md)
+Read04  | [Class4](201/class04.md)
 Read05  | 
 Read06 | 
 Read08 | 

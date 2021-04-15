@@ -1,5 +1,5 @@
-# ORDER OF EXECUTION 
 - ## Searching for (and fixing) errors in programming code is called code debugging.
+## ORDER OF EXECUTION 
 
 - ## Each time a script enters a new execution context, there are two phases of activity:
  - ### PREPARE.

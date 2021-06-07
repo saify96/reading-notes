@@ -48,6 +48,10 @@ Read15 |
 
 ## Code 301 - Intermediate Software Development
 
+Assignment | Link
+-------------- | ---------------
+Read01 | [Class1](301/class01.md)
+
 ---
 
 ## Code 401 - Advanced Software Development

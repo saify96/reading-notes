@@ -52,6 +52,8 @@ Assignment | Link
 -------------- | ---------------
 Read01 | [Class1](301/class01.md)
 Read02 | [Class2](301/class02.md)
+Read03 | [Class3](301/class3.md)
+
 
 
 ---

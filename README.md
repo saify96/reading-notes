@@ -51,7 +51,12 @@ Read15 |
 Assignment | Link
 -------------- | ---------------
 Read01 | [Class1](301/class01.md)
+Read02 | [Class2](301/class02.md)
+
 
 ---
 
 ## Code 401 - Advanced Software Development
+
+
+## Things I want to know more about

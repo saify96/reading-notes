@@ -1,8 +1,8 @@
 ## What is functional programming?
-- ### Functional programming is a programming paradigm — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.(1)
+- ### Functional programming is a programming paradigm — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
 
 ## What is a pure function and how do we know if something is a pure function?
-- ### Pure function will return the same result if given the same arguments, and It does not cause any observable side effects. (1)
+- ### Pure function will return the same result if given the same arguments, and It does not cause any observable side effects.
 
 ## What are the benefits of a pure function?
 - ### Code is easier to test.

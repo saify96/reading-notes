@@ -41,8 +41,6 @@ Read12 | [Class12](201/class12.md)
 Read13 | [Class13](201/class13.md)
 Read14a | [Class14a](201/class14a.md)
 Read14b | [Class14b](201/class14b.md)
-Read15 | 
-
 
 ---
 
@@ -65,13 +63,13 @@ Read12 | [Class12](301/class12.md)
 Read13 | [Class13](301/class13.md)
 Read14 | [Class14](301/class14.md)
 
-
 ---
 
 ## Code 401 - Advanced Software Development
 Assignment | Link
 -------------- | ---------------
 Read01 | [Class1](401/class01.md)
+Read02 | [Class2](401/class02.md)
 
 
 ## Things I want to know more about

@@ -25,3 +25,9 @@
 
 ## Control Flow Statements
 - The statements inside your source files are generally executed from top to bottom, it will breal the flow in some cases such as looping statements and the branching statements.
+
+
+## Compiling
+
+When you compile code, the compilor (usually another program) takes the program the human wrote, and converts it into the program the computer can understand (i.e. converts from Java to machine language).
+

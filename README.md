@@ -1,14 +1,12 @@
 # Reading Notes
 ---
 
-
 #### My name is mohammad al saify, I am a civil engineer, I graduated in 2018 from Philadelphia University with an excellent degree.
 #### I am a content moderator at Opensooq since 1 year, I am looking forward to changing my career and I believe this course will help me out.
 ### Here is my GitHub account [Mohammad Al Saify](https://github.com/saify96)
 
 ---
 ## Code 102 - Intro to Software Development
-
 
 Assignment | Link
 ------------ | -------------
@@ -66,14 +64,16 @@ Read14 | [Class14](301/class14.md)
 ---
 
 ## Code 401 - Advanced Software Development
+
 Assignment | Link
 -------------- | ---------------
 Read01 | [Class1](401/class01.md)
 Read02 | [Class2](401/class02.md)
 Read03 | [Class3](401/class03.md)
 Read04 | [Class4](401/class04.md)
+Read05 | [Class5](401/class05.md)
+Read06 | [Class6](401/class06.md)
 
 
 
 
-## Things I want to know more about

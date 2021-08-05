@@ -75,7 +75,7 @@ Read05 | [Class5](401/class05.md)
 Read06 | [Class6](401/class06.md)
 Read08 | [Class8](401/class08.md)
 Read09 | [Class9](401/class09.md)
-Read010 | [Class10](401/class010.md)
+Read010 | [Class10](401/class10.md)
 
 
 

@@ -44,3 +44,8 @@
 
 - The condition in recursion
   - In the recursive program, the solution to the base case is provided and the solution of the bigger problem is expressed in terms of smaller problems. 
+
+- How a particular problem is solved using recursion? 
+  - The idea is to represent a problem in terms of one or more smaller problems, and add one or more base conditions that stop the recursion.
+
+  

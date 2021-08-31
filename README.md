@@ -91,5 +91,7 @@ Assignment | Link
 -------------- | ---------------
 Read26 | [Class26](401/android/class01.md)
 Read27 | [Class27](401/android/class02.md)
+Read28 | [Class28](401/android/class03.md)
+
 
 
